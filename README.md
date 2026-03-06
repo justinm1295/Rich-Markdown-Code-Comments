@@ -3,9 +3,10 @@
 Rich Markdown Code Comments is a JetBrains plugin that allows you to embed links to full Markdown notes directly within your source code comments. This plugin helps you keep your code comments concise while providing a way to access detailed documentation, bug reports, or refactoring notes with a single click or hover preview.
 
 ## Reporting Bugs or Other Issues
-To report a bug, use the "Issues" tab above to create a new issue.
+To report a bug, use the "Issues" tab above to create a new issue. 
+For support, you can also email us at `richmarkdowncodecomments.justin@gmail.com`.
 
-# User Guide
+# Using the Plugin
 
 ## 1. Organizing Your Notes
 
