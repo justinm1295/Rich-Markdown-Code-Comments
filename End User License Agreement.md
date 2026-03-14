@@ -1,6 +1,6 @@
 "Confirmation" means an email from JetBrains confirming Your rights to use a Paid Plugin and containing important information about Your license or Subscription.
 
-"Developer" means RichComments.
+"Developer" means myersonj.
 
 “Documentation” means the latest versions of all online technical documentation available for a Plugin at JetBrains Marketplace and any other relevant Plugin documentation provided either by JetBrains or the Developer that applies to the Plugin.
 
